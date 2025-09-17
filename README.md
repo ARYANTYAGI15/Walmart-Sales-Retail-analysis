@@ -50,5 +50,5 @@ git commit -m "Initial commit: Walmart Sales Forecasting Project"
 
 # Add GitHub remote
 git branch -M main
-git remote add origin https://github.com/<your-username>/walmart-sales-forecasting.git
+git remote add origin https://github.com/ARYANTYAGI15/walmart-sales-forecasting.git
 git push -u origin main
